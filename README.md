@@ -1,2 +1,3 @@
 # guiter-shop
-love in art  tech hub
+this is a love in arts tech hub's assignment3
+
